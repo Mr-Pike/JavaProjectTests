@@ -1,0 +1,5 @@
+-- Lancer la commande suivante afin de générer les modèles 
+ mvn org.hibernate.tool:hibernate-tools-maven:7.1.3.Final:hbm2java
+
+
+-- Pré-requis : installer mvn depuis Chocolatey
